@@ -436,7 +436,7 @@
 /* PRODUCT STYLES */
 .product {
   width: 200px;
-  margin: 0;
+  margin: auto;
   border-radius: 10px;
 }
 

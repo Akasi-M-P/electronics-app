@@ -504,7 +504,7 @@
 }
 
 .cart-product-name {
-  font-size: 14px;
+  font-size: 12px;
   font-weight:500;
   margin-left: 0;
 }
@@ -555,7 +555,7 @@
   cursor: pointer;
   padding: 10px 100px;
   border-color: transparent;
-  font-size: 18px;
+  font-size: 16px;
   font-weight:600;
   cursor: pointer;
   background-color: orange;

@@ -672,7 +672,7 @@
 /* PRODUCT STYLES */
 .product {
   width: 270px;
-  margin: 0;
+  margin: auto;
   border-radius: 10px;
 }
 
@@ -874,13 +874,13 @@
 
 
 /*  1280-1024   - desktop (default grid) */
-@media all and (min-width: 1025px) and (max-width: 2040px) { 
+@media all and (min-width: 1024px) and (max-width: 2040px) { 
  * PRODUCT STYLES */
 .product {
   width: 400px;
   background-color: bisque;
   border: 1px solid rgb(212, 206, 206);
-  margin: 0;
+  margin: auto;
   border-radius: 10px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }

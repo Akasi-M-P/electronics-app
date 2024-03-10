@@ -648,7 +648,7 @@
 
 
 /*   1024-768    - tablet landscape */
-@media all and (min-width: 768px){
+@media all and (max-width: 768px){
   .products-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -874,9 +874,8 @@
  }
 
 
-
 /*  1280-1024   - desktop (default grid) */
-@media all and (min-width: 1180px) and (max-width: 2040px) { 
+@media all and (min-width: 1180px) and (max-width: 2170px) { 
  * PRODUCT STYLES */
 .product {
   width: 400px;

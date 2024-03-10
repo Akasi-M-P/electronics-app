@@ -13,7 +13,7 @@
 
 /* PRODUCT STYLES */
 .product {
-  width: 400px;
+  width: 330px;
   margin: auto;
   background-color: bisque;
   border: 1px solid rgb(212, 206, 206);
@@ -878,7 +878,7 @@
 @media all and (min-width: 1180px) and (max-width: 2170px) { 
  * PRODUCT STYLES */
 .product {
-  width: 400px;
+  width: 320px;
   background-color: bisque;
   border: 1px solid rgb(212, 206, 206);
   margin: auto;

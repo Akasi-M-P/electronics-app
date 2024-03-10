@@ -13,7 +13,7 @@
 
 /* PRODUCT STYLES */
 .product {
-  width: 350px;
+  width: 400px;
   margin: auto;
   background-color: bisque;
   border: 1px solid rgb(212, 206, 206);
@@ -648,7 +648,7 @@
 
 
 /*   1024-768    - tablet landscape */
-@media all and (min-width: 768px){
+@media all and (width: 768px){
   .products-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

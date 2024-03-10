@@ -702,6 +702,8 @@
 }
 
 
+
+
 */ CART ITEM STYLES */
 .cart-container {
   width: 100%;
@@ -927,6 +929,16 @@
   color: #35374B;
   border: 1px solid #cdcee1;
 }
+
+
+.products-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding-top: 0;
+  row-gap: 20px;
+}
+
 
 
 

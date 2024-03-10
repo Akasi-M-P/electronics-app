@@ -648,7 +648,7 @@
 
 
 /*   1024-768    - tablet landscape */
-@media all and (max-width: 768px){
+@media all and (min-width: 768px){
   .products-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
